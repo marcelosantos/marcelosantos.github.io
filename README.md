@@ -1,8 +1,8 @@
-# Marcelo Santos - Projeto para estruturação das informações do perfil profissional
+# Marcelo Santos - Perfil Profissional
 
 Projeto simples que visa disponiblizar detalhes sobre minhas experiências profissionais.
 
-## Base Theme
+## Theme
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
@@ -13,4 +13,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](LICENSE) license.
