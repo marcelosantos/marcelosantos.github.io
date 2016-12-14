@@ -1,3 +1,8 @@
+v0.0.5 (14/12/2016)
+===================
+## features
+- adicionando mais informações sobre experiêcias profissionais
+
 v0.0.4 (14/12/2016)
 ===================
 ## features
