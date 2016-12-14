@@ -2,10 +2,6 @@
 
 Projeto simples que visa disponiblizar detalhes sobre minhas experiências profissionais.
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on
-
 ## Base Theme
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
