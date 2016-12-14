@@ -2,6 +2,8 @@
 
 Projeto simples que visa disponiblizar detalhes sobre minhas experiências profissionais.
 
+* https://marcelosantos.github.io
+
 ## Theme
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
