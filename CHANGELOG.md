@@ -1,8 +1,13 @@
+v0.0.7 (14/12/2016)
+===================
+## features
+- alterações html, nova image do perfil
+
 v0.0.6 (14/12/2016)
 ===================
 ## features
 - alterações README
-    - tecnologias utulizadas no projeto
+    - tecnologias utlizadas no projeto
 
 v0.0.5 (14/12/2016)
 ===================
