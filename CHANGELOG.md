@@ -1,3 +1,8 @@
+v0.0.12 (16/12/2016)
+===================
+## features
+- adicionando informações profissionais
+
 v0.0.11 (15/12/2016)
 ===================
 ## hotfixes
