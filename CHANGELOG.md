@@ -1,3 +1,14 @@
+v0.0.9 (15/12/2016)
+===================
+## features
+- novos ícones
+- novos conteúdos
+
+v0.0.8 (14/12/2016)
+===================
+## features
+- alterações título do s.o. mobile
+
 v0.0.7 (14/12/2016)
 ===================
 ## features
