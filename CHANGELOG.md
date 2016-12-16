@@ -1,3 +1,8 @@
+v0.0.11 (15/12/2016)
+===================
+## hotfixes
+- adicionando informações de contato
+
 v0.0.10 (15/12/2016)
 ===================
 ## hotfixes
