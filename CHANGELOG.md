@@ -1,3 +1,24 @@
+v0.0.12 (16/12/2016)
+===================
+## features
+- adicionando informações profissionais
+
+v0.0.11 (15/12/2016)
+===================
+## hotfixes
+- adicionando informações de contato
+
+v0.0.10 (15/12/2016)
+===================
+## hotfixes
+- adicionando link do github
+
+v0.0.9 (15/12/2016)
+===================
+## features
+- novos ícones
+- novos conteúdos
+
 v0.0.8 (14/12/2016)
 ===================
 ## features
