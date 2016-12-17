@@ -8,6 +8,7 @@ Projeto simples que visa disponiblizar detalhes sobre minhas experiências profi
 
 * [Bootstrap](http://getbootstrap.com/)
 * [JQuery](https://jquery.com/)
+* [Font Awesome](http://fontawesome.io//)
 
 ##### [CHANGELOG](CHANGELOG.md)
 
