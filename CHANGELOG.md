@@ -1,3 +1,8 @@
+v0.0.13 (16/12/2016)
+===================
+## features
+- adicionando informações de projetos publicados
+
 v0.0.12 (16/12/2016)
 ===================
 ## features
