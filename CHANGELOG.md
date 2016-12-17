@@ -1,3 +1,8 @@
+v0.0.15 (16/12/2016)
+===================
+## hotfixes
+- adicioando lib Font Awesome no README
+
 v0.0.14 (16/12/2016)
 ===================
 ## hotfixes
