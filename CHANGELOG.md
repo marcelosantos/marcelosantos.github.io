@@ -1,3 +1,8 @@
+v0.0.16 (16/12/2016)
+===================
+## hotfixes
+- ajustes links de contato email e telefone
+
 v0.0.15 (16/12/2016)
 ===================
 ## hotfixes

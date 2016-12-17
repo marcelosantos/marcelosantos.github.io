@@ -506,6 +506,9 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+.color-white {
+  color: #fff !important;
+}
 .plataformas li {
   list-style: none;
 }
