@@ -1,3 +1,8 @@
+v0.0.14 (16/12/2016)
+===================
+## hotfixes
+- removendo link do facebook e adicionando "blank" aos links
+
 v0.0.13 (16/12/2016)
 ===================
 ## features
