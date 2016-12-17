@@ -1,3 +1,8 @@
+v0.0.17 (16/12/2016)
+===================
+## hotfixes
+- adicionando versão simplista de curriculo
+
 v0.0.16 (16/12/2016)
 ===================
 ## hotfixes
