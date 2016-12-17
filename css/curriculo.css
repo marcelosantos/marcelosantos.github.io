@@ -1,0 +1,188 @@
+
+
+body{
+    /*background-image: url('../img/background.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    color: #585858;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.cabecalho {
+    font-family: 'Cinzel', serif;
+    text-align: right;
+    text-shadow: -2px -2px lightgrey;
+}
+.componente_curricular {
+    clear: both;
+    padding-bottom: 30px;
+}
+
+.cabecalhoComponente {
+    border-top: 1px solid #c3c3c3;
+    padding-top: 15px;
+    font-family: 'Cinzel', serif;
+    text-shadow: -2px -2px lightgrey;
+
+}
+
+section.conteudo {
+    width: 65%;
+    overflow: auto;
+    padding-left: 10px;
+    position: relative;
+    top: -20px;
+
+    float:right;
+    width: 70%;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+    background-color: rgba(255,255,255,0.1);
+    border: 1px solid #c3c3c3;
+    position:fixed;
+    overflow: auto;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+
+
+}
+
+.item_menu {
+    padding-left: 2px;
+    padding-bottom: 20px;
+    font-size: 13px;
+    position: relative;
+    left: -15px;
+    top:  10px;
+    font-weight: bold;
+
+}
+
+.paragrafo_formatado {
+    text-align: justify;
+}
+
+.item_menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: 	#585858 ;
+}
+
+.item_menu a:link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: 	#585858 ;
+}
+
+.item_menu a:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: 	#585858 ;
+}
+
+.item_menu a:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.item_menu a:active {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #c3c3c3;
+}
+
+.link_comum:link {
+    text-decoration: none;
+    color: 	black
+}
+
+.link_comum:hover {
+    text-decoration: underline ;
+}
+
+.link_comum:visited {
+    color: 	black;
+}
+
+.cartao {
+    padding-bottom: 20px;
+    position: relative;
+    left: -20px;
+    top: 30px;
+}
+.cartao figure  {
+    float: left;
+    clear: left;
+    top: -5px;
+    position:relative;
+    left: -15px;
+
+
+}
+
+.containerFormulario {
+    width: auto;
+    overflow: auto;
+    padding-left: 20px;
+    position: relative;
+
+    float:right;
+    width: 70%;
+
+}
+
+
+.formulario {
+    width: 80%;
+    position: relative;
+    top: -40px;
+}
+
+.grupo_input {
+    padding-bottom: 10px;
+}
+
+.entrada {
+    color: #c3c3c3 ;
+}
+
+.entrada:focus {
+    color: black ;
+}
+
+.caixa_mensagem {
+    min-height: 75px;
+    max-height: 75px;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.rotuloEntrada {
+    font-size: 15px;
+    font-family: 'Cinzel', serif;
+}
+
+.obrigatorioForm {
+    color: red;
+    font-size: 10px;
+}
+
+.labelAjuda {
+    font-size: 9px;
+}
+
+.container_captcha {
+    position:relative;
+    left: -10px;
+    top: 30px;
+    width: 10%;
+}
