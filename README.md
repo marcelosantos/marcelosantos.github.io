@@ -9,7 +9,7 @@ Projeto simples que visa disponibilizar detalhes sobre minhas experiências prof
 
 * [Bootstrap](http://getbootstrap.com/)
 * [JQuery](https://jquery.com/)
-* [Font Awesome](http://fontawesome.io//)
+* [Font Awesome](http://fontawesome.io/)
 
 ##### [CHANGELOG](CHANGELOG.md)
 
