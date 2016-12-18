@@ -1,8 +1,9 @@
 # Marcelo Santos - Perfil Profissional
 
-Projeto simples que visa disponiblizar detalhes sobre minhas experiências profissionais.
+Projeto simples que visa disponibilizar detalhes sobre minhas experiências profissionais.
 
-* https://marcelosantos.github.io
+* https://marcelosantos.github.io (Versão customizada)
+* https://marcelosantos.github.io/curriculo.html (Versão simplista)
 
 ##### Tecnologias
 
