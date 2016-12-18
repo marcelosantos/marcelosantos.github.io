@@ -1,3 +1,8 @@
+v0.0.22 (18/12/2016)
+===================
+## hotfixes
+- ajustes em propriedades do projeto
+
 v0.0.21 (18/12/2016)
 ===================
 ## hotfixes
