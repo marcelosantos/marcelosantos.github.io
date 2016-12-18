@@ -1,4 +1,9 @@
-v0.0.18 (18/12/2016)
+v0.0.20 (18/12/2016)
+===================
+## hotfixes
+- ajustes no arquivo changelog
+
+v0.0.19 (18/12/2016)
 ===================
 ## features
 - adicionando informações na versão simplista
