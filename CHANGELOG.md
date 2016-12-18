@@ -1,3 +1,8 @@
+v0.0.24 (18/12/2016)
+===================
+## hotfixes
+- ajustes de css na versão simplista
+
 v0.0.23 (18/12/2016)
 ===================
 ## hotfixes
