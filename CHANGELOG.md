@@ -1,3 +1,8 @@
+v0.0.18 (18/12/2016)
+===================
+## features
+- adicionando informações na versão simplista
+
 v0.0.17 (16/12/2016)
 ===================
 ## hotfixes
