@@ -1,3 +1,8 @@
+v0.0.25 (19/12/2016)
+===================
+## hotfixes
+- correção carga horária curso pentaho da oncase
+
 v0.0.24 (18/12/2016)
 ===================
 ## hotfixes
