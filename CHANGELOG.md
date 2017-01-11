@@ -1,3 +1,8 @@
+v0.0.26 (11/01/2017)
+===================
+## features
+- adicionando english version
+
 v0.0.25 (19/12/2016)
 ===================
 ## hotfixes
