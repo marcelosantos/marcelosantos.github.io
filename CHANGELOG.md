@@ -1,6 +1,11 @@
+v1.0.1 (02/02/2017)
+===================
+## hotfixes
+- bugfix information data lang
+
 v1.0.0 (02/02/2017)
 ===================
-## features
+## hotfixes
 - bugfix information data
 
 v0.0.26 (11/01/2017)
