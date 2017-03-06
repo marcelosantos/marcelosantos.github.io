@@ -1,3 +1,8 @@
+v1.0.2 (06/03/2017)
+===================
+## features
+- change information about projects
+
 v1.0.2 (03/03/2017)
 ===================
 ## hotfixes
